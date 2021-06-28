@@ -1,3 +1,0 @@
-Address: bc1q2a3s48uuk2z9uy6pjs2flkq3g9huvqaluts5lg
-Message: one@cryptocube.group
-Signature: HxpDsOUZgtzsYbRahST3kJKMVp1KkzmVKCgqpTloiE/yKEhGQ7kBi0D/qhlWysiYxo2GDpwqeJxsylyOtbgAdew=
